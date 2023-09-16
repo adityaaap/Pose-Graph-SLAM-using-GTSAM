@@ -23,6 +23,8 @@ The algorithm for incremental solution can be seen here:
 1. 2D Data : https://www.dropbox.com/s/vcz8cag7bo0zlaj/input_INTEL_g2o.g2o?dl=0
 2. 3D Data : https://www.dropbox.com/s/zu23p8d522qccor/parking-garage.g2o?dl=0
 
+Datasets used here are obtained by processing raw measurements from wheel odometry and laser range findings at Intel Research Lab, Seattle.
+
 # Getting Started
 
 1. Please first clone and install GTSAM Library to the desired file folder. Detailed instructions can be found here. (https://github.com/borglab/gtsam)
